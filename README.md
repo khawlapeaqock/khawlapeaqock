@@ -3,6 +3,9 @@
 ## 🚀 About Me
 I'm a DevOps Engineer & Cloud Architect specializing in CI/CD pipelines, cloud infrastructure, and container orchestration.
 
+## 🏆 Certifications
+
+- **Certified Kubernetes Administrator (CKA)** - Earned my CKA certification, demonstrating my proficiency in managing Kubernetes clusters, configuring networking, and ensuring secure and efficient operation.
 
 ## 🛠️ Languages and Tools
 
